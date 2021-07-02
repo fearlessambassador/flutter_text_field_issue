@@ -11,6 +11,7 @@ class TextFieldPage extends StatelessWidget {
         title: const Text("Flutter text field issue"),
       ),
       body: Center(
+        // ignore: sized_box_for_whitespace
         child: Container(
             width: 300,
             height: 200,
